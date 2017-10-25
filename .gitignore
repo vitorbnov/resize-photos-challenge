@@ -1,0 +1,9 @@
+*.pyc
+.vscode/
+
+# Images
+*.bmp
+*.gif
+*.jpg
+*.jpeg
+*.png
