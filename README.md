@@ -18,6 +18,8 @@ To run web app in development mode:
 
 `$ uwsgi development.ini --py-autoreload 1`
 
+You must have a MongoDB server running locally in order to run this application in development mode
+
 To run some unit tests:
 
 `$ python tests/photos_resizer_test.py`
